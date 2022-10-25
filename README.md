@@ -1,2 +1,5 @@
 # ADISE22_AngApo
-Angelopoulou Varvara 185139, Apostolidis Theocharis 185149
+
+## Φοιτητες:
+Angelopoulou Varvara 185139, 
+Apostolidis Theocharis 185149
